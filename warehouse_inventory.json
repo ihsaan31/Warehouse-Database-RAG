@@ -1,0 +1,87 @@
+{
+  "warehouse": {
+    "name": "Central Storage Facility",
+    "location": "123 Industrial Park, Springfield, IL",
+    "inventory": [
+      {
+        "item_id": "ITM001",
+        "name": "Laptop 15-inch",
+        "category": "Electronics",
+        "quantity": 150,
+        "unit_price": 799.99,
+        "location": "Aisle 3, Shelf B2",
+        "last_updated": "2025-07-10",
+        "status": "In Stock",
+        "supplier": "TechCorp",
+        "minimum_stock_level": 50
+      },
+      {
+        "item_id": "ITM002",
+        "name": "Wireless Mouse",
+        "category": "Electronics",
+        "quantity": 300,
+        "unit_price": 19.99,
+        "location": "Aisle 3, Shelf C1",
+        "last_updated": "2025-07-12",
+        "status": "In Stock",
+        "supplier": "TechCorp",
+        "minimum_stock_level": 100
+      },
+      {
+        "item_id": "ITM003",
+        "name": "Office Chair",
+        "category": "Furniture",
+        "quantity": 75,
+        "unit_price": 149.99,
+        "location": "Aisle 7, Shelf A1",
+        "last_updated": "2025-07-09",
+        "status": "Low Stock",
+        "supplier": "FurniCo",
+        "minimum_stock_level": 80
+      },
+      {
+        "item_id": "ITM004",
+        "name": "A4 Paper Ream",
+        "category": "Stationery",
+        "quantity": 500,
+        "unit_price": 5.99,
+        "location": "Aisle 5, Shelf D3",
+        "last_updated": "2025-07-11",
+        "status": "In Stock",
+        "supplier": "PaperWorks",
+        "minimum_stock_level": 200
+      },
+      {
+        "item_id": "ITM005",
+        "name": "LED Desk Lamp",
+        "category": "Electronics",
+        "quantity": 40,
+        "unit_price": 29.99,
+        "location": "Aisle 4, Shelf B3",
+        "last_updated": "2025-07-08",
+        "status": "Low Stock",
+        "supplier": "BrightTech",
+        "minimum_stock_level": 50
+      },
+      {
+        "item_id": "ITM006",
+        "name": "Packing Tape",
+        "category": "Packaging",
+        "quantity": 1000,
+        "unit_price": 2.49,
+        "location": "Aisle 6, Shelf C2",
+        "last_updated": "2025-07-12",
+        "status": "In Stock",
+        "supplier": "PackSavvy",
+        "minimum_stock_level": 300
+      }
+    ],
+    "warehouse_info": {
+      "total_items": 6,
+      "total_value": 95024.50,
+      "last_inventory_check": "2025-07-12",
+      "manager": "Jane Doe",
+      "contact": "jane.doe@centralstorage.com"
+    }
+  }
+}
